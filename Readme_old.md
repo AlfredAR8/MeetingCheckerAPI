@@ -33,6 +33,6 @@
 
 ## Índice
 
-### [FAQ (Preguntas Frecuentes Español](https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_ES.md)
+### [FAQ (Preguntas Frecuentes Español)](https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_ES.md)
 ### [Licencias](https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/Meeting-Checker-Licenses-ES.md)
 ### [Politica de privacidad](https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/privacy_policy_ES.md)
