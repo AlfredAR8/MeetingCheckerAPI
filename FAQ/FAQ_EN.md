@@ -41,24 +41,24 @@ A bot is a software program that performs automated, repetitive, or pre-defined 
 5. Paste that on the Settings menu “Discord User ID“ field.
 ## DASHBOARD
 ### Update Widget
-<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/UpdateWidget_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/UpdateWidget_2_EN.png?raw=true" width="205" height="95">
+<img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/UpdateWidget_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/UpdateWidget_2_EN.png?raw=true" width="205" height="95">
 
 This checks if there is a new update for the app available, If there is one available (#2 image) you can click over the icon to open the Microsoft Store app page to update it.
 ### Bot Status Widget
-<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_2_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_3_EN.png?raw=true" width="205" height="95">
+<img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_2_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_3_EN.png?raw=true" width="205" height="95">
 
 This tells you if the Bot is online or offline, for start the bot click over the widget.
 After you click the button in the online state it will have a 1-second delay **(#3 image)** before you click the button again.
 
 **You can set the meetings on the “Setup“ Menu**
 ### Time For Next Check Widget
-<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/TimeForNextCheckWidget_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/TimeForNextCheckWidget_2_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/TimeForNextCheckWidget_3_EN.png?raw=true" width="205" height="95">
+<img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/TimeForNextCheckWidget_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/TimeForNextCheckWidget_2_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/TimeForNextCheckWidget_3_EN.png?raw=true" width="205" height="95">
 
 This tells you how much time is left until the bot check again if any meeting started, it starts/stops automatically when the bot status is clicked. if you click a menu button the countdown will not be available until you click the bot status widget to stop and start again the bot.
 
 **You can set the time on the “Settings“ Menu (Default 60 seconds, minimum 10 seconds)**
 ### Last Meetings Enabled Widget
-<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/LastMeetingsEnabledWidget_1_EN.png?raw=true" width="340" height="318">
+<img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/LastMeetingsEnabledWidget_1_EN.png?raw=true" width="340" height="318">
 
 Shows a timeline with the last activity of meetings (which meetings got enabled/disabled and the time/day)
 “✔“ => Enabled
@@ -70,7 +70,7 @@ Shows a timeline with the last activity of meetings (which meetings got enabled/
 ## MEETINGS
 
 ### Meeting Status
-<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Meetings_1_EN.png?raw=true" width="137" height="205"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Meetings_2_EN.png?raw=true" width="137" height="205">
+<img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Meetings_1_EN.png?raw=true" width="137" height="205"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Meetings_2_EN.png?raw=true" width="137" height="205">
 
 The name row shows the meetings names that you setup on the setup menu option. **(Image 2)**
 
@@ -82,7 +82,7 @@ Red => Disabled
 ## SETUP
 Here you can setup your meetings.
 
-<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_2_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_3_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_4_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_5_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_6_EN.png?raw=true" width="205" height="95"> 
+<img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Setup_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Setup_2_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Setup_3_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Setup_4_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Setup_5_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Setup_6_EN.png?raw=true" width="205" height="95"> 
 
 * On the “Meeting Name“ row you write your meeting name **(it can be any name).**
 * On the “Meeting Code“ row you write your meeting code **(You can find it on Google Classroom below the class name on "Meet link") If the link is https://meet.google.com/lookup/dkuy9slrpr you write dkuy9slrpr on the meeting code row.**
@@ -94,13 +94,13 @@ Here you can setup your meetings.
 ## SETTINGS
 Here you can change the app settings
 
-<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_2_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_3_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_4_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_5_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_6_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_7_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_8_EN.png?raw=true" width="205" height="95"> 
+<img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Settings_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Settings_2_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Settings_3_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Settings_4_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Settings_5_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Settings_6_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Settings_7_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_IMAGES/Settings_8_EN.png?raw=true" width="205" height="95"> 
 
 * On the “Time Between Checks (Seconds)“ section you write the seconds that you want the bot to wait until the bot check again if any meeting started, **minimum: 60 seconds.**
 * On the “Language“ section you can choose which language you want to see on the app and the discord DM  **only English and Spanish are currently supported.**
 * On the “Minimize to system tray“ section you can choose if you want to minimize the app to the taskbar **(when is disabled)** or to system tray **(When it's enabled, if you want to open the app again you click the system tray icon)** click the white box for enable/disable the option.
 * On the “Discord DM“ section you can choose if you want to enable the bot to send you a message through Discord when a meeting start **(when is enabled)** or to only show it on the Dashboard and Meetings menu option **(When it's disabled)** click the white box for enable/disable the option.
-* On the “Discord Bot Token“ section you write the bot token that you get [Here.](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/FAQ/FAQ_EN.md#discord-bot-token)
-* On the “Discord User ID“ section you write the bot token that you get [Here.](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/FAQ/FAQ_EN.md#discord-user-id)
+* On the “Discord Bot Token“ section you write the bot token that you get [Here.](https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_EN.md#discord-bot-token)
+* On the “Discord User ID“ section you write the bot token that you get [Here.](https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_EN.md#discord-user-id)
 * To save all the changes click the “Save Settings!“ button and close the app and start it again.
 * To log in to your Google account click the “Load Account“ button, and it will open a chromium browser so you can log in or verify your password.
