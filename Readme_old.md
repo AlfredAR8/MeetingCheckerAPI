@@ -13,9 +13,9 @@
 
 ## Index
 
-### [FAQ](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/FAQ/FAQ_EN.md)
-### [Licenses](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/Meeting-Checker-Licenses-EN.md)
-### [Privacy Policy](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/privacy_policy_EN.md)
+### [FAQ](https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_EN.md)
+### [Licenses](https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/Meeting-Checker-Licenses-EN.md)
+### [Privacy Policy](https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/privacy_policy_EN.md)
 
 ## Español
 #### ¡Revisa cuando comienzan reuniones de Google meet y recibe por mensaje vía Discord cuando comienza una reunión!
@@ -33,6 +33,6 @@
 
 ## Índice
 
-### [FAQ (Preguntas Frecuentes Español](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/FAQ/FAQ_ES.md)
-### [Licencias](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/Meeting-Checker-Licenses-ES.md)
-### [Politica de privacidad](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/privacy_policy_ES.md)
+### [FAQ (Preguntas Frecuentes Español](https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/FAQ/FAQ_ES.md)
+### [Licencias](https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/Meeting-Checker-Licenses-ES.md)
+### [Politica de privacidad](https://github.com/AlfredAR8/MeetingCheckerAPI/blob/main/privacy_policy_ES.md)
